@@ -1,0 +1,4 @@
+[0402/123933.927:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0402/123934.871:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0402/123939.126:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0402/123940.963:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
