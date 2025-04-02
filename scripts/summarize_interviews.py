@@ -1,7 +1,7 @@
 import os
 from docx import Document
 from transformers import pipeline
-
+summarizer = pipeline("summarization")
 def extract_text_from_docx(file_path):
     """Extracts text from a Word document."""
     doc = Document(file_path)
